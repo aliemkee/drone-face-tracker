@@ -1,0 +1,4 @@
+opencv-contrib-python>=4.8.0
+onnxruntime>=1.17.0
+numpy>=1.24.0
+pymavlink>=2.4.40
